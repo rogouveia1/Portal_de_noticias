@@ -85,9 +85,9 @@ section h2{
     font-size: 32px;
 }
 
-/* dar cor de fundo na sessão de esportes rgba red green blue alpha(transparente) */
-#sports{
-    background-color: rgba(0, 255, 0, 0.1);
+/* dar cor de fundo na sessão de entretenimento rgba red green blue alpha(transparente) */
+#entertainment{
+    background-color: rgba(0, 0, 255, 0.1);
 
 }
 
