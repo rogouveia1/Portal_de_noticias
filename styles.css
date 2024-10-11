@@ -92,15 +92,15 @@ section h2{
 }
 
 #entertainment .articles article a{
-    background-color: rgb(112, 112, 220);
+    background-color: rgb(140, 166, 239);
 }
 
-#economy{
-    background-color: #f8f59f;
+#technology{
+    background-color: #9fa9ef;
 }
 
-#economy .articles article a{
-    background-color: #ff9f1a;
+#technology.articles article a{
+    background-color: #85c8ef;
 }
 
 
